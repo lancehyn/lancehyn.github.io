@@ -1,10 +1,10 @@
-baseURL: "https://lance.github.io"
+baseURL: "https://lancehyn.github.io"
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
 licenselink: "https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE"
 description: "A fast, clean Hugo theme"
-homepage: "https://lance.github.io"
+homepage: "https://lancehyn.github.io"
 defaultContentLanguage: "zh"
 googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
@@ -62,7 +62,7 @@ params:
       qr: https://storage.guangzhengli.com/images/weixin_sponsors.jpeg
   comments:
     giscus:
-      enable: true
+      enable: false
       repo: guangzhengli/hugo-ladder-exampleSite
       repo_id: R_kgDOHyVOjg
       category: Announcements
