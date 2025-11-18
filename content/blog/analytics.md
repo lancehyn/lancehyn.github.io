@@ -5,8 +5,11 @@ tags: ["hugo", "ladder", "Tutorial", "analytics"]
 series: ["how to create your blog"]
 featured: true
 ---
+
 This article is about how to integrate website statistics analysis.
+
 <!--more-->
+
 ## Analytics
 
 ## Google Analytics
@@ -36,4 +39,3 @@ params:
       website_id: data-website-id
       url: https://umami-ochre-nu.vercel.app/hugo-ladder.js
 ```
-
